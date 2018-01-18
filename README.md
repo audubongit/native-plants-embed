@@ -21,7 +21,7 @@ var nativePlantsEmbedFormSettings = {
   shape: 'square',
 };
 </script>
-<script id="native-plants-embed-form" src="//nasdev.audubon.org/sites/all/modules/custom/native_plants_embed_form/native_plants_embed_form.min.js"></script>
+<script id="native-plants-embed-form" src="//www.audubon.org/sites/all/modules/custom/native_plants_embed_form/native_plants_embed_form.min.js"></script>
 ```
 
 **White Rectangle**
@@ -33,7 +33,7 @@ var nativePlantsEmbedFormSettings = {
   shape: 'rectangle',
 };
 </script>
-<script id="native-plants-embed-form" src="//nasdev.audubon.org/sites/all/modules/custom/native_plants_embed_form/native_plants_embed_form.min.js"></script>
+<script id="native-plants-embed-form" src="//www.audubon.org/sites/all/modules/custom/native_plants_embed_form/native_plants_embed_form.min.js"></script>
 ```
 
 **Black Box**
@@ -45,7 +45,7 @@ var nativePlantsEmbedFormSettings = {
   shape: 'square',
 };
 </script>
-<script id="native-plants-embed-form" src="//nasdev.audubon.org/sites/all/modules/custom/native_plants_embed_form/native_plants_embed_form.min.js"></script>
+<script id="native-plants-embed-form" src="//www.audubon.org/sites/all/modules/custom/native_plants_embed_form/native_plants_embed_form.min.js"></script>
 ```
 
 **Black Rectangle**
@@ -57,5 +57,5 @@ var nativePlantsEmbedFormSettings = {
   shape: 'rectangle',
 };
 </script>
-<script id="native-plants-embed-form" src="//nasdev.audubon.org/sites/all/modules/custom/native_plants_embed_form/native_plants_embed_form.min.js"></script>
+<script id="native-plants-embed-form" src="//www.audubon.org/sites/all/modules/custom/native_plants_embed_form/native_plants_embed_form.min.js"></script>
 ```
