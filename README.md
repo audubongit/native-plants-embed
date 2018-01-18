@@ -5,10 +5,12 @@ The embed comes in two sizes and two color variations. Use whichever one suits y
 
 ## Sizes
 **Box:** 360 x 320 px
+
 **Rectangle:** 600 x 175 px
 
 ![Native Plant embed examples](https://github.com/audubongit/native-plants-embed/blob/master/np-embed-examples.png?raw=true)
 
+## Embed Codes
 
 **White Box**
 
